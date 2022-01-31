@@ -1,0 +1,8 @@
+# Who are you?
+- My Name is Adeel
+- I live in Hamburg
+- I am 30 years old
+
+## What are you currently doing?
+- I am student for a web development bootcamp
+- I am learning how to code
