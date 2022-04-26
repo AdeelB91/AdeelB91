@@ -1,9 +1,10 @@
-<p align=center>
+<h2 align=center>
 🙋🏻‍♂️ Hi, I’m Adeel!
-</p>
+</h2>
 <p align=center>
 I live in Hamburg ⚓️, I am 30 years old 🧔🏻‍♂️ and I am currently learning coding 💻
   </p>
+  <h1></h1>
 <p align=center>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=AdeelB91&theme=github-light&date_format=M%20j%5B%2C%20Y%5D" />
     </p>
